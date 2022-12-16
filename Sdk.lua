@@ -1,15 +1,13 @@
 --[[
 
--> This game will be single player (1 player per level).
-● Players move through linear levels to defeat dragons, minimum 2 levels.
-● Dragons will have varying difficulty levels, with a visual indicator to indicate each
-dragon’s difficulty during gameplay (independently from dragon’s model).
-● Dragons drop gold when killed, which should be tracked and displayed for players.
-● Dragons have a chance to drop one of at least 3 different player used weapons.
-● Items dropped by dragons should be picked up by manual interaction.
-● Basic fight mechanics for player weapons, players start with a non-dropped item.
-● At least 2 different attack types from dragons (i.e. flame and claw).
-● Once all dragons are defeated on a level, players progress to the next level.
+- solo player game
+- players move through multiple levels to defeat dragons
+- dragons will have difficulty and level indicator
+- dragon on death drops random sword and gold
+- player can pick up dropped items by interacting
+- basic fight mechanics for player
+- dragons have two types of attack options
+- when all dragons defeated player goes to next level
 
 ]]
 
